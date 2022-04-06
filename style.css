@@ -342,7 +342,7 @@ body {
 
 .project-image {
   z-index: 1;
-  position: absolute;
+  /* position: absolute; */
   margin: 0;
   top: 0;
   left: 0;
